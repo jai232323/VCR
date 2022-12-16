@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665876979894",
+    "project_id": "voicerecognitioncalculat-3a5a8",
+    "storage_bucket": "voicerecognitioncalculat-3a5a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665876979894:android:4a0517fe08c8bd37e04617",
+        "android_client_info": {
+          "package_name": "com.example.voicerecognitioncalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665876979894-91eakn79ipqj3u7nkvsj9dfeps3l8k8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNrhq7YLzXi9zE1XNyBn-yLppFmmgHjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665876979894-91eakn79ipqj3u7nkvsj9dfeps3l8k8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
